@@ -1,0 +1,14 @@
+{
+  "name": "e-commerce",
+  "app_id": "744952ec",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic1",
+  "watchPatterns": [
+    "scss/**/*",
+    "www/**/*",
+    "!www/lib/**/*",
+    "!www/**/*.map"
+  ]
+}
